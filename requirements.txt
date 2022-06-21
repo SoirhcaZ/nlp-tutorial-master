@@ -20,7 +20,7 @@ nbconvert==4.2.0
 nbformat==4.0.1
 nltk==3.4.5
 notebook==6.1.5
-numpy==1.11.1
+numpy==1.22.0
 pexpect==4.2.0
 pickleshare==0.7.2
 Pillow==8.1.1
